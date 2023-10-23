@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Vaidurya Vernerkar and I'm a .Robotics & Automation Engineering student from India</p>
+<p align="left">My name is Vaidurya Vernerkar and I'm a Robotics & Automation Engineering student from India</p>
 
 ###
 
