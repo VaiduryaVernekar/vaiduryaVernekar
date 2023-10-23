@@ -1,12 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hey 👋 What's up?</h1>
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">I am a passionate Robotics and Automation Engineering  Student from India</p>
+<h2 align="center">About me</h2>
 
 ###
 
@@ -14,17 +10,21 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h3 align="center">I code with</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/replit/F26207" height="40" alt="replit logo"  />
 </div>
+
+###
+
+<h4 align="left">Socials</h4>
 
 ###
 
