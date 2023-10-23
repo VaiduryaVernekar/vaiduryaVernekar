@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Vaidurya Vernerkar and I'm a Robotics & Automation Engineering student from India</p>
+<p align="left">My name is Vaidurya Vernerkar and I'm a .Robotics & Automation Engineering student from India</p>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">Have a nice day!!</p>
+<h4 align="center">Have a nice day!!</h4>
 
 ###
 
