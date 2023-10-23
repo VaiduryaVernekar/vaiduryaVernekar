@@ -2,15 +2,19 @@
 
 ###
 
+<p align="left">My name is Vaidurya Vernerkar and I'm a .Robotics & Automation Engineering student from India</p>
+
+###
+
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">🤖 First-year Robotics & Automation Engineering student<br>🚀 Passionate about tech, coding, and robots<br>💡 Exploring the world of circuits and innovation<br>🌟 Let's build a future powered by technology!</p>
+<p align="left">🤖 First-year Robotics & Engineering student<br>🚀 Passionate about tech, coding, and robots<br>💡 Exploring the world of circuits and innovation<br>🌟 Let's build a future powered by technology!</p>
 
 ###
 
-<h3 align="left">I code with</h3>
+<h2 align="left">I code with</h2>
 
 ###
 
@@ -24,13 +28,7 @@
 
 ###
 
-<h4 align="left">Socials</h4>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-</div>
+<p align="left">Have a nice day!!</p>
 
 ###
 
