@@ -1,8 +1,8 @@
-<h1 align="center">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<h2 align="center">About me</h2>
+<h2 align="left">About me</h2>
 
 ###
 
@@ -10,11 +10,11 @@
 
 ###
 
-<h3 align="center">I code with</h3>
+<h3 align="left">I code with</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
@@ -30,6 +30,12 @@
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media1.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif?cid=6c09b952phwd9t0jrlewkqzgnpj88emvcl998ivzkokkrb1o&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 
 ###
